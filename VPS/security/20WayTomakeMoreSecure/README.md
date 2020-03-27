@@ -1,37 +1,3 @@
-[![](https://www.eurovps.com/blog/wp-content/themes/eurovps/assets/images/logo-blog-color.svg)](https://www.eurovps.com/blog/)
-
--   Categories
-
-    -   [](https://www.eurovps.com/blog/category/company-culture/)
-    -   [](https://www.eurovps.com/blog/category/product/)
-    -   [](https://www.eurovps.com/blog/category/resources/)
-    -   [](https://www.eurovps.com/blog/category/use-cases/)
-    -   [](https://www.eurovps.com/blog/category/guides/)
-    -   [](https://www.eurovps.com/blog/category/trends/)
-
--   Products
-
-    -   [](https://www.eurovps.com/managed-vps-hosting)
-    -   [](https://www.eurovps.com/dedicated-servers)
-    -   [](https://www.eurovps.com/private-cloud)
-    -   [](https://www.eurovps.com/support)
-
-    -   [](https://www.eurovps.com/freelancers)
-    -   [](https://www.eurovps.com/digital-agencies)
-    -   [](https://www.eurovps.com/e-commerce-hosting)
-    -   [](https://www.eurovps.com/blog/20-ways-to-secure-linux-vps/#)
-
--   - - -
-
-    -   [](https://www.eurovps.com/about)
-    -   [](https://www.eurovps.com/media-kit)
-    -   [](https://www.eurovps.com/customer-stories)
-    -   [](https://www.eurovps.com/write-for-us)
-
-    -   [](https://facebook.com/eurovps)
-    -   [](https://twitter.com/eurovps)
-    -   [](https://instagram.com/eurovps)
-
 20 Ways to Secure Your Linux VPS so You Don't Get Hacked
 ========================================================
 
